@@ -69,5 +69,6 @@ V) Medical Datasets Relevant to VQA:
 Last update on April 23, 2020.  
 
 --------------------------------
-Contact: asma.benabacha@nih.gov
+Contact: 
 --------------------------------
+asma.benabacha at nih.gov
