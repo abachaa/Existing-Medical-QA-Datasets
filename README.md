@@ -11,7 +11,7 @@ I) Medical QA Datasets:
 =======================
 
 1) Corpus for Evidence Based Medicine Summarization (Mollá, 2010):https://sourceforge.net/projects/ebmsumcorpus
-2) CLEF QA4MRE Alzheimer’s task (Sutcliffe et al, 2013). 
+2) CLEF QA4MRE Alzheimer’s task (Peñas et al, 2012). 
 3) TREC LiveQA-Med (Ben Abacha et al, 2017): https://github.com/abachaa/LiveQA_MedicalTask_TREC2017
 4) MEDIQA @ ACL-BioNLP (Ben Abacha et al., 2019): https://github.com/abachaa/MEDIQA2019
 5) MedQuaD Collection (Ben Abacha and Demner-Fushman, 2019): https://github.com/abachaa/MedQuAD 
