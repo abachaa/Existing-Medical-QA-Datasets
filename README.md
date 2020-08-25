@@ -17,6 +17,7 @@ I) Medical QA Datasets:
 5) MedQuaD Collection (Ben Abacha and Demner-Fushman, 2019): https://github.com/abachaa/MedQuAD 
 6) Medication QA Collection (Ben Abacha et al., 2019): https://github.com/abachaa/Medication_QA_MedInfo2019
 7) BioASK datasets (2012-2020): http://bioasq.org/participate/challenges
+8) emrQA: QA on Electronic Medical Records (Pampari et al., 2018). Scripts to generate emrQA from i2b2 data: https://github.com/panushri25/emrQA 
 
 
 II) Medical VQA Datasets (Radiology): 
