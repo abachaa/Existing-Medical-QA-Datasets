@@ -10,15 +10,18 @@ Also, several challenge-related datasets are not publicly available anymore. You
 I) Medical QA Datasets:
 =======================
 
-1) Corpus for Evidence Based Medicine Summarization (Mollá, 2010):https://sourceforge.net/projects/ebmsumcorpus
+1) Corpus for Evidence Based Medicine Summarization (Mollá, 2010): https://sourceforge.net/projects/ebmsumcorpus 
 2) CLEF QA4MRE Alzheimer’s task (Peñas et al, 2012). 
-3) TREC LiveQA-Med (Ben Abacha et al, 2017): https://github.com/abachaa/LiveQA_MedicalTask_TREC2017
-4) MEDIQA @ ACL-BioNLP (Ben Abacha et al., 2019): https://github.com/abachaa/MEDIQA2019
-5) MedQuaD Collection (Ben Abacha and Demner-Fushman, 2019): https://github.com/abachaa/MedQuAD 
-6) Medication QA Collection (Ben Abacha et al., 2019): https://github.com/abachaa/Medication_QA_MedInfo2019
-7) BioASK datasets (2012-2020): http://bioasq.org/participate/challenges
-8) emrQA: QA on Electronic Medical Records (Pampari et al., 2018). Scripts to generate emrQA from i2b2 data: https://github.com/panushri25/emrQA 
-
+3) BioASK datasets (2012-2020): http://bioasq.org/participate/challenges
+4) TREC LiveQA-Med (Ben Abacha et al, 2017): https://github.com/abachaa/LiveQA_MedicalTask_TREC2017
+5) MEDIQA-2019 datasets on NLI, RQE, and QA (Ben Abacha et al., 2019): https://github.com/abachaa/MEDIQA2019 
+6) MEDIQA-AnS dataset of question-driven summaries of answers (Savery et al., 2020): https://osf.io/fyg46/ Paper: https://www.nature.com/articles/s41597-020-00667-z 
+7) MedQuaD Collection of 47k QA pairs (Ben Abacha and Demner-Fushman, 2019): https://github.com/abachaa/MedQuAD 
+8) Medication QA Collection (Ben Abacha et al., 2019): https://github.com/abachaa/Medication_QA_MedInfo2019
+9) Consumer Health Question Summarization (Ben Abacha and Demner-Fushman, 2019): https://github.com/abachaa/MeQSum
+10) emrQA: QA on Electronic Medical Records (Pampari et al., 2018). Scripts to generate emrQA from i2b2 data: https://github.com/panushri25/emrQA 
+11) EPIC-QA dataset on COVID-19 (Goodwin et al. 2020): https://bionlp.nlm.nih.gov/epic_qa/ 
+12) BiQA Corpus (Lamurias et al. 2020): https://github.com/lasigeBioTM/BiQA  Paper:https://ieeexplore.ieee.org/document/9184044 
 
 II) Medical VQA Datasets (Radiology): 
 =====================================
@@ -37,8 +40,8 @@ III) Online QA Systems:
 2) Neural Covidex: covidex.ai
 
 
-IV) Medical Datasets Relevant to QA: 
-===========================================
+IV) Medical Datasets Relevant to Question Answering: 
+=====================================================
 
 1) i2b2 shared tasks (2006-2016): www.i2b2.org/NLP
 2) n2c2 NLP clinical challenges (2018-2019): https://n2c2.dbmi.hms.harvard.edu
@@ -46,9 +49,8 @@ IV) Medical Datasets Relevant to QA:
 3) TREC	Medical	Records Track (2012-2013).  
 4) TREC	Clinical Decision Support Track (2014-2016): http://www.trec-cds.org	
 5) TREC	Precision Medicine Track (2017-2019): http://www.trec-cds.org
-6) Consumer Health Question Summarization: https://github.com/abachaa/MeQSum
-7) CLEF	eHealth (2013-2020): https://clefehealth.imag.fr 
-8) COVID dataset (CORD-19): https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge 
+6) CLEF	eHealth (2013-2020): https://clefehealth.imag.fr 
+7) COVID dataset (CORD-19): https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge 
 
 
 V) Medical Datasets Relevant to VQA: 
@@ -63,12 +65,12 @@ V) Medical Datasets Relevant to VQA:
 7) ImageCLEFmed (2016): https://www.imageclef.org/2016/medical
 8) ImageCLEFcaption (2017-2020): https://www.imageclef.org/2017/caption
 9) ImageCLEFmedical tasks (2019-2020): https://www.imageclef.org/2019/medical and https://www.imageclef.org/2020/medical 
-
+10) MIMIC-CXR Database (2019): https://physionet.org/content/mimic-cxr/2.0.0/  
 
 --------------------------------
 
-Last update on April 23, 2020.  
-
+Last update on November 3, 2020. 
+ 
 --------------------------------
 Contact: 
 --------------------------------
