@@ -20,8 +20,10 @@ I) Medical QA Datasets:
 8) Medication QA Collection (Ben Abacha et al., 2019): https://github.com/abachaa/Medication_QA_MedInfo2019
 9) Consumer Health Question Summarization (Ben Abacha and Demner-Fushman, 2019): https://github.com/abachaa/MeQSum
 10) emrQA: QA on Electronic Medical Records (Pampari et al., 2018). Scripts to generate emrQA from i2b2 data: https://github.com/panushri25/emrQA 
-11) EPIC-QA dataset on COVID-19 (Goodwin et al. 2020): https://bionlp.nlm.nih.gov/epic_qa/ 
-12) BiQA Corpus (Lamurias et al. 2020): https://github.com/lasigeBioTM/BiQA  Paper:https://ieeexplore.ieee.org/document/9184044 
+11) EPIC-QA dataset on COVID-19 (Goodwin et al., 2020): https://bionlp.nlm.nih.gov/epic_qa/ 
+12) BiQA Corpus (Lamurias et al., 2020): https://github.com/lasigeBioTM/BiQA  Paper:https://ieeexplore.ieee.org/document/9184044 
+13) HealthQA Dataset (Zhu et al., 2019): https://github.com/mingzhu0527/HAR Paper: https://dmkd.cs.vt.edu/papers/WWW19.pdf 
+14) MASH-QA Dataset on Multiple Answer Spans Healthcare Question Answering, with 35k QA pairs (Zhu et al., 2020): https://github.com/mingzhu0527/MASHQA Paper: https://www.aclweb.org/anthology/2020.findings-emnlp.342.pdf 
 
 II) Medical VQA Datasets (Radiology): 
 =====================================
