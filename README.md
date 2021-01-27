@@ -31,7 +31,7 @@ II) Medical VQA Datasets (Radiology):
 1) VQA-RAD (Lau et al. 2018): https://osf.io/89kps
 2) VQA-Med 2018 (Hasan et al. 2018): https://www.aicrowd.com/challenges/imageclef-2018-vqa-med
 3) VQA-Med 2019 (Ben Abacha et al. 2019): https://github.com/abachaa/VQA-Med-2019
-4) VQA-Med 2020 (Ben Abacha et al. 2020): https://www.aicrowd.com/challenges/imageclef-2020-vqa-med  
+4) VQA-Med 2020 (Ben Abacha et al. 2020): https://github.com/abachaa/VQA-Med-2020 
 
 
 III) Online QA Systems:
@@ -71,7 +71,7 @@ V) Medical Datasets Relevant to VQA:
 
 --------------------------------
 
-Last update on November 3, 2020. 
+Last update on January 26, 2021. 
  
 --------------------------------
 Contact: 
