@@ -1,4 +1,4 @@
-# Existing Medical QA Datasets
+# Existing Medical QA & VQA Datasets
 Multimodal Question Answering in the Medical Domain: A summary of Existing Datasets and Systems
 
 *** Two Main Tasks: Medical Question Answering (QA) & Visual Question Answering (VQA) ***
