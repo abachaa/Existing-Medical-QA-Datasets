@@ -1,11 +1,13 @@
 # Existing Medical QA & VQA Datasets
-Multimodal Question Answering in the Medical Domain: A summary of Existing Datasets and Systems
+Multimodal Question Answering (QA) in the Medical Domain: A summary of Existing Datasets and Systems
 
-*** Two Main Tasks: Medical Question Answering (QA) & Visual Question Answering (VQA) ***
+- I prepared this summary for my CMU/LTI talk on multimodal QA. My slides are available at https://www.slideshare.net/benabacha/multimodal-question-answering-in-the-medical-domain-cmulti-2020 
 
--- This list is not exhaustive. You can email me links and references of relevant medical QA datasets and systems and I'll update the list asap.
+- This list is not exhaustive. You can email me links and references of relevant medical QA datasets and systems and I'll update the list asap.
 Also, several challenge-related datasets are not publicly available anymore. You can contact the organizers to have the data. 
  
+ *** Two Main Tasks: Medical Question Answering (QA) & Visual Question Answering (VQA) ***
+
  
 I) Medical QA Datasets:
 =======================
