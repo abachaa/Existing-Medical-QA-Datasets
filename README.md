@@ -25,7 +25,8 @@ I) Medical QA Datasets:
 11) EPIC-QA dataset on COVID-19 (Goodwin et al., 2020): https://bionlp.nlm.nih.gov/epic_qa/ 
 12) BiQA Corpus (Lamurias et al., 2020): https://github.com/lasigeBioTM/BiQA  Paper:https://ieeexplore.ieee.org/document/9184044 
 13) HealthQA Dataset (Zhu et al., 2019): https://github.com/mingzhu0527/HAR Paper: https://dmkd.cs.vt.edu/papers/WWW19.pdf 
-14) MASH-QA Dataset on Multiple Answer Spans Healthcare Question Answering, with 35k QA pairs (Zhu et al., 2020): https://github.com/mingzhu0527/MASHQA Paper: https://www.aclweb.org/anthology/2020.findings-emnlp.342.pdf 
+14) MASH-QA Dataset on Multiple Answer Spans Healthcare Question Answering, with 35k QA pairs (Zhu et al., 2020): https://github.com/mingzhu0527/MASHQA Paper: https://www.aclweb.org/anthology/2020.findings-emnlp.342.pdf
+15) MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering. CHIL, PMLR (2022) (Pal, Ankit et al.) : https://github.com/medmcqa/medmcqa Paper: https://proceedings.mlr.press/v174/pal22a.html
 
 II) Medical VQA Datasets (Radiology): 
 =====================================
